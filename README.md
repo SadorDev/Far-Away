@@ -17,7 +17,7 @@ in the list, the component will display a message asking the user to add some it
 ### Screenshots
 
 App
-![App](far-away/screenshots/App.png)
+![App](./screenshots/App.png)
 
 Component layout
 ![Component layout](far-away/screenshots/Component-layout.png)
