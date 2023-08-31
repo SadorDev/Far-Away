@@ -26,7 +26,7 @@ App Items
 ![App Items](./screenshots/App-items.png)
 
 Added App Items
-![App Items](./screenshots\App-items-(added).png)
+![App Items](./screenshots/App-items-(added).png)
 
 ### Technologies
 
