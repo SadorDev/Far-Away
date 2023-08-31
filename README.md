@@ -20,13 +20,13 @@ App
 ![App](./screenshots/App.png)
 
 Component layout
-![Component layout](far-away/screenshots/Component-layout.png)
+![Component layout](./screenshots/Component-layout.png)
 
 App Items
-![App Items](far-away/screenshots/App-items.png)
+![App Items](./screenshots/App-items.png)
 
 Added App Items
-![App Items](far-away/screenshots\App-items-(added).png)
+![App Items](./screenshots\App-items-(added).png)
 
 ### Technologies
 
